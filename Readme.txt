@@ -25,5 +25,5 @@ https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_P6497_sRNA_CPM_
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_T34_sRNA_CPM_merged_avg.bw
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_sc10_sRNA_CPM_merged_avg.bw
 
-####Or maybe you can try accessing the shared session via this link: https://tinyurl.com/24uo3fa6. 
+####Or you can try accessing the shared pre-configured session via this link: https://tinyurl.com/24uo3fa6. 
 ####Please note that the link may not be permanently valid.
