@@ -1,0 +1,6 @@
+K27_broad_T34_123repsTo12Inputs_FE.bw filter=lfs diff=lfs merge=lfs -text
+K27_broad_sc10_123repsTo12Inputs_FE.bw filter=lfs diff=lfs merge=lfs -text
+K27_broad_A13_123repsTo12Inputs_FE.bw filter=lfs diff=lfs merge=lfs -text
+K27_broad_ACR10_123repsTo1Input_FE.bw filter=lfs diff=lfs merge=lfs -text
+K27_broad_H7_123repsTo12Inputs_FE.bw filter=lfs diff=lfs merge=lfs -text
+K27_broad_P6497_12repsTo12Inputs_FE.bw filter=lfs diff=lfs merge=lfs -text
