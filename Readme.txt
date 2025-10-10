@@ -1,4 +1,4 @@
-##The raw URLs are listed below and can be downloaded and loaded using the IGV online version.
+##The raw data URLs are provided below and can be either downloaded or directly visualized using the IGV online browser.
 ##https://igv.org/app/
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/Physo3_AssemblyScaffolds.fasta
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/Physo3_AssemblyScaffolds.fasta.fai
@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/K27_broad_H7_123reps
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/K27_broad_P6497_12repsTo12Inputs_FE.15bp.bw
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/K27_broad_T34_123repsTo12Inputs_FE.15bp.bw
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/K27_broad_sc10_123repsTo12Inputs_FE.15bp.bw
+ ##Given the large size of the original H3K27me3 bigWig files, we additionally generated 15 bp binned versions to facilitate efficient loading and visualization in the IGV online browser.
 
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_ACR10_sRNA_CPM_merged_avg.bw
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_A13_sRNA_CPM_merged_avg.bw
@@ -25,5 +26,5 @@ https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_P6497_sRNA_CPM_
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_T34_sRNA_CPM_merged_avg.bw
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_sc10_sRNA_CPM_merged_avg.bw
 
-####Or you can try accessing the shared pre-configured session via this link: https://tinyurl.com/3uj9j7yu. 
+####A pre-configured IGV session is also available at: https://tinyurl.com/3uj9j7yu. 
 ####Please note that the session link may not be permanently valid.
