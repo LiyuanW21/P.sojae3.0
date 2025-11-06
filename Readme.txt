@@ -1,7 +1,7 @@
 ##The raw data URLs are provided below and can be either downloaded or directly visualized using the IGV online browser.
 ##https://igv.org/app/
 
-##Reference genome files:
+##Reference genome files(P. sojae v3.0, publicly available version):
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/Physo3_AssemblyScaffolds.fasta
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/Physo3_AssemblyScaffolds.fasta.fai
 https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/PsV3_gene.gtf
