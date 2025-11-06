@@ -33,4 +33,4 @@ https://raw.githubusercontent.com/LiyuanW21/P.sojae3.0/main/sRNA_sc10_sRNA_CPM_m
 
 ##A pre-configured IGV session is also available at: https://tinyurl.com/3uj9j7yu. 
 ##Please note that the session link may not be permanently valid.
-##Users are kindly requested to cite the corresponding publication if these data are used.
+##Users are kindly requested to cite the corresponding publication if the processed datasets from this study are used.
